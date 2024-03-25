@@ -1,0 +1,97 @@
+#hartford {
+    font-size: 85px;
+    text-align: center;
+    font-family: 'Castoro Titling', cursive;
+    margin-top: 250px;
+}
+
+#makes {
+    font-size: 48px;
+    text-align: center;
+    font-family: 'Castoro Titling', cursive;
+    margin-top: 10px;
+}
+
+#music {
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Castoro Titling', cursive;
+    margin-top: 20px;
+    margin-bottom: 360px;
+}
+
+#who {
+    text-align: center;
+    font-family: 'Castoro Titling', cursive;
+    margin-bottom: 10px;
+}
+
+#me {
+	display: block;
+    width: 350px;
+    margin: auto;
+}
+
+#bio {
+    margin-top: 25px;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: justify;
+    margin-bottom: 175px;
+}
+
+#links {
+    font-size: 48px;
+    text-align: center;
+    font-family: 'Castoro Titling', cursive;
+    margin-top: 15px;
+    margin-bottom: 35px;
+}
+
+.link-tags {
+    display: block;
+    width: 350px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 200px;
+}
+
+#instagram {
+    width: 300px;
+    height: 60px;
+    margin: 20px;
+    text-decoration: none;
+    font-family: 'Castoro Titling', cursive;
+    background-color: #ffffff;
+    border-color: #000000;
+    border-width: 3px;
+}
+
+#tiktok {
+    width: 300px;
+    height: 60px;
+    margin: 20px;
+    text-decoration: none;
+    font-family: 'Castoro Titling', cursive;
+    background-color: #ffffff;
+    border-color: #000000;
+    border-width: 3px;
+}
+
+#youtube {
+    width: 300px;
+    height: 60px;
+    margin: 20px;
+    text-decoration: none;
+    font-family: 'Castoro Titling', cursive;
+    background-color: #ffffff;
+    border-color: #000000;
+    border-width: 3px;
+}
+
+footer {
+    margin-top: auto;
+    text-align: center;
+	padding: 10px;
+    font-family: 'Castoro Titling', cursive;
+}
